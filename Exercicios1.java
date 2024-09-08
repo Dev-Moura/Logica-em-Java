@@ -1,4 +1,4 @@
-package curso_programacao;
+	package curso_programacao;
 
 import java.util.Locale;
 
